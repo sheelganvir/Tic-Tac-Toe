@@ -118,3 +118,10 @@ nav ul{
 .bb-0{
     border-bottom: 0;
 }
+
+footer p{
+    color: #D4ADFC;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
